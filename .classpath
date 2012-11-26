@@ -5,6 +5,9 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.ext.servlet.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/org.restlet.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jackson-core-asl-1.9.9.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jackson-jaxrs-1.9.9.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jackson-mapper-asl-1.9.9.jar"/>
 	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/v2"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
